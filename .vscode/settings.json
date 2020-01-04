@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "sec6/bin/python3.7",
+    "python.envFile": "${workspaceFolder}/.env"
+}
